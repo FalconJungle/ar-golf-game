@@ -1,0 +1,8 @@
+# Labels.txt - YOLOv8 Model Labels
+# This file contains the class labels for the golf club detection model
+# Placeholder labels:
+golf_club
+ball
+player
+tee
+flag
