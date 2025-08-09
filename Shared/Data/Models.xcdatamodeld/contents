@@ -1,0 +1,29 @@
+{
+  "object": {
+    "BC7493D8-F617-4C06-A480-F4C95E5674A3": {
+      "CustomClassName": "Game",
+      "EntityName": "Game",
+      "Name": "Game",
+      "isAbstract": false,
+      "syncable": true,
+      "Attributes": {
+        "createdAt": {
+          "Name": "createdAt",
+          "AttributeType": "Date",
+          "Transient": false,
+          "Syncable": true
+        },
+        "score": {
+          "Name": "score",
+          "AttributeType": "Integer 32",
+          "Transient": false,
+          "Syncable": true
+        }
+      }
+    }
+  },
+  "VersionInfo": {
+    "Version": "1.0",
+    "Hash": "placeholder_hash"
+  }
+}
